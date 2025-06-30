@@ -20,14 +20,14 @@ Enter any 2 sides of a right triangle, and TrigoCalc auto-solves the third + sho
 ### 📸 Screenshot
 
 ![TrigoCalc Screenshot](screenshot.png)  
-*(Add this if you upload a screenshot!)*
+
 
 ---
 
 ### 🚀 Try It Live
 
-🔗 [Live App on Streamlit](https://your-streamlit-link-here)  
-*(Replace with your actual link once deployed!)*
+🔗 [Live App on Streamlit](https://trigocalc.streamlit.app/)  
+
 
 ---
 
@@ -36,7 +36,7 @@ Enter any 2 sides of a right triangle, and TrigoCalc auto-solves the third + sho
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/yourusername/Trigocalc.git
-   cd Trigocalc
+   cd TrigoCalc
    ```
 
 2. **Install dependencies**  
