@@ -81,6 +81,6 @@ def solve_trigo(p, b, h):
 if st.button("Calculate"):
     solve_trigo(p, b, h)
 
-# # Footer
-# st.markdown("<hr>", unsafe_allow_html=True)
-# st.markdown("<p style='text-align:center;'> Built by <b>HEISENDEV</b> </p>", unsafe_allow_html=True)
+# Footer
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'> Built by <b>HEISENDEV</b> </p>", unsafe_allow_html=True)
